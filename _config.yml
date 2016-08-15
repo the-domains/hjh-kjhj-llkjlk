@@ -1,4 +1,3 @@
-layout_spectrum: 0.02666456252336502
 typography_spectrum: 0.6564126822631806
 color:
   brandStrength: 0.9459980074316263
@@ -11,8 +10,10 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
+layout_spectrum: 0.02666456252336502
 name: 'hjh kjhj llkjlk '
 navigation:
   - name: '122'
     id: 08ba6019-44e0-423d-97fe-3c09d0e395de
     type: content
+description: '1111'
