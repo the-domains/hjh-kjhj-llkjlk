@@ -16,5 +16,8 @@ navigation:
   - name: '122'
     id: 08ba6019-44e0-423d-97fe-3c09d0e395de
     type: content
+  - name: '55555'
+    url: www.sfdas.sk
+    type: external
 title: 6566+
 description: '1111'
